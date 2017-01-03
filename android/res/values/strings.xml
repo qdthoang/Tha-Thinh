@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">ThaThinh</string>
+    <string name="title">Thả Thính</string>
+    <string name="instruction">Instruction</string>
+    <string name="instructDes">Tilt the device to avoid thính</string>
+    <string name="thinh">This is thính</string>
+    <string name="girl">And this is you</string>
+    <string name="goodLuck">Good luck :v</string>
+    <string name="play">Play</string>
+
+    <string name="next">Next</string>
+
+    <string name="lol">LOL</string>
+    <string name="you_can_try">Né thính cho cố vào</string>
+    <string name="cant_hide">Rồi cũng dính thoi</string>
+    <string name="bleh">Lêu lêu</string>
+
+    <string name="but">Mà lỡ đớp cmnr…</string>
+    <string name="go_with_the_flow">Bạn đớp cho trót đi :v</string>
+
+    <string name="give_me_a_chance">Bạn cho tui 1 cơ hội nha?</string>
+
+    <string name="no">Đéo</string>
+    <string name="still_no">Vẫn đéo</string>
+    <string name="plz">Thoi tui năn nỉ đó :(</string>
+    <string name="pretty_plz">Năn nỉ thiệt :(</string>
+    <string name="fine">Fine</string>
+
+    <string name="yes">Ờ :v</string>
+    <string name="finish">Ờ rồi trả điện thoại cho tui</string>
+</resources>
